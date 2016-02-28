@@ -1,0 +1,13 @@
+
+.b-sub{
+	cursor: pointer;
+	list-style-image: url("heart.png");
+}
+.subject{
+	cursor: pointer;
+	list-style-image:url("more.png");
+}
+.o-sub{
+	cursor: pointer;
+	list-style-image: url("morea.png");
+}
