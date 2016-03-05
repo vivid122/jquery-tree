@@ -1,13 +1,13 @@
 
 .b-sub{
 	cursor: pointer;
-	list-style-image: url("wenjian.svg");
+	list-style-image: url("./img/wenjian.svg");
 }
 .subject{
 	cursor: pointer;
-	list-style-image:url("wenjianjia.svg");
+	list-style-image:url("./img/wenjianjia.svg");
 }
 .o-sub{
 	cursor: pointer;
-	list-style-image: url("wenjianjiax.svg");
+	list-style-image: url("./img/wenjianjia (1).svg");
 }
